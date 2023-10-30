@@ -1,2 +1,2 @@
-# Dorbit-PhysicalSatelliteMotionModel
+# DOrbit-PhysicalSatelliteMotionModel
 Physical Motion model
